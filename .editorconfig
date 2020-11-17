@@ -3,4 +3,6 @@
 # top-most EditorConfig file
 root = true
 
+[*.{c,cpp}]
+
 tab_width = 4
