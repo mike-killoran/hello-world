@@ -3,6 +3,7 @@
 # top-most EditorConfig file
 root = true
 
-[*.{c,cpp}]
+# Set the tab width for files that end in .c, .cpp, and .h
+[*.{c,cpp,h}]
 
 tab_width = 4
