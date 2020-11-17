@@ -3,4 +3,4 @@
 # top-most EditorConfig file
 root = true
 
-indent_size = 4
+tab_width = 4
